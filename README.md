@@ -36,15 +36,21 @@ Both machines are isolated on an internal network with no external exposure.
 - Configured snort.lua for full IDS functionality
 - Verified alerts firing correctly against real Nmap and ping traffic
 
+### [Project 3 — Active Directory & Domain Controller](./project-3-active-directory/)
+- Promoted Windows Server 2022 to a Domain Controller
+- Created lab.local domain with DNS
+- Created Organizational Units (Staff and IT)
+- Created domain user accounts with Kerberos authentication
+- Configured domain-wide Group Policy password security rules
+
 ---
 
 ## 🔜 Upcoming Projects
 
 | # | Project | Description |
 |---|---|---|
-| 3 | Wireshark Traffic Analysis | Capture and analyze pcap files from lab traffic |
-| 4 | Cisco Packet Tracer | Network simulation and routing/switching labs |
-| 5 | Active Directory + Domain Controller | AD DS, users, GPOs, domain join |
+| 4 | Wireshark Traffic Analysis | Capture and analyze pcap files from lab traffic |
+| 5 | Cisco Packet Tracer | Network simulation and routing/switching labs |
 
 ---
 
