@@ -51,6 +51,7 @@ Both machines are isolated on an internal network with no external exposure.
 |---|---|---|
 | 4 | Wireshark Traffic Analysis | Capture and analyze pcap files from lab traffic |
 | 5 | Cisco Packet Tracer | Network simulation and routing/switching labs |
+| 6 | Attack & Defense — SOC Simulation | Enumerate AD from Kali, brute force domain accounts, detect attacks via Windows Event Logs, defend with GPO lockout policy, and write a full incident response report |
 
 ---
 
